@@ -1,6 +1,6 @@
 # Thenu-MD-BETA-Pair
 # PAIR CODE - Thenu-MD
-```MADE BY VISHWA22```
+```MADE BY Thenux-AI (Thenula Panapiti)```
 
 Welcome to the **Pair Code** project for **Thenu-MD**. This application allows users to obtain a SESSION-ID by entering their phone number with the country code. It's a simple, interactive tool with a clean, modern interface designed to be both user-friendly and functional.
 
