@@ -74,7 +74,7 @@ router.get('/', async (req, res) => {
                         });
 
                         await PrabathPairWeb.sendMessage(user_jid, {
-                            text: "❗ `Dont share Your code to anyone`\n\n*💕Thank you for using Thenu-MD*\n\n*👉🏻If you have any problem please contact us on Whatsapp*\n\n*👉🏻https://wa.me/94767096711*\n\n*👉🏻https://github.com/darkhackersl/Thenu-MD-V2/fork*\n\n----------------------------------------------------\n\n",
+                            text: "❗ `Dont share Your code to anyone`\n\n*💕Thank you for using Thenu-MD*\n\n*👉🏻If you have any problem please contact us on Whatsapp*\n\n*👉🏻https://wa.me/94767096711*\n\n*👉🏻 (Release Repo Soon)*\n\n----------------------------------------------------\n\n",
    
                             });
    
