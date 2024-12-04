@@ -6,6 +6,22 @@ Welcome to the **Pair Code** project for **Thenu-MD**. This application allows u
 
 ![Background Image](https://i.ibb.co/NZSn68B/a-pair-new.png)
 
+ <p align="left">1. SESSION ID 
+    <br>
+<a href='https://replit.com/@thenulapanapit2/Thenu-MD-BETA-Pair-2' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/PAIR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
+
+
+# How to Get SESSION_ID
+
+- 1 Click Fork Button & Give heart.
+![icon 1](https://i.ibb.co/ZW7CSj4/Screenshot-2024-12-04-124823.png)
+
+- 2 Click RUN Button above.
+  ![icon 2](https://i.ibb.co/F3qzkcZ/Screenshot-2024-12-04-125220.png)
+
+- 3 Please wait 1 minute & Type your number showing in you WEBVIEW .. If you not showing PAIR CODE Please full size your WEB PAGE.
+![icon 3](https://i.ibb.co/6s1y2S1/Screenshot-2024-12-04-125609.png)
+  
 ## Features
 
 - **Enter Phone Number**: Users can input their phone number with the country code.
@@ -33,4 +49,6 @@ You can deploy this application on various platforms. Here are some options:
 
    ```bash
    git clone https://github.com/darkhackersl/Thenu-MD-BETA-Pair.git
+
+
 
