@@ -8,7 +8,7 @@ Welcome to the **Pair Code** project for **Thenu-MD**. This application allows u
 
  <p align="left">1. SESSION ID 
     <br>
-<a href='https://replit.com/@thenulapanapit2/Thenu-MD-BETA-Pair-2' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/PAIR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
+<a href='https://replit.com/@thenulapanapit2/Thenu-MD-BETA-Pair-2' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/SESSION ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
 
 # How to Get SESSION_ID
